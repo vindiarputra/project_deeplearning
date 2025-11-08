@@ -1,0 +1,14 @@
+# Mengabaikan folder virtual environment
+venv/
+
+# Mengabaikan folder dataset yang diekstrak
+dataset/
+
+# Mengabaikan cache dari Jupyter
+.ipynb_checkpoints/
+
+# Mengabaikan cache Python
+__pycache__/
+
+# Mengabaikan file .zip (pilih salah satu cara di atas)
+*.zip
