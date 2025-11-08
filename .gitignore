@@ -12,3 +12,6 @@ __pycache__/
 
 # Mengabaikan file .zip (pilih salah satu cara di atas)
 *.zip
+
+# Mengabaikan file .ini
+*.ini
