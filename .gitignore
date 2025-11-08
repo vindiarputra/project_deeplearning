@@ -10,7 +10,7 @@ dataset/
 # Mengabaikan cache Python
 __pycache__/
 
-# Mengabaikan file .zip (pilih salah satu cara di atas)
+# Mengabaikan file .zip
 *.zip
 
 # Mengabaikan file .ini
