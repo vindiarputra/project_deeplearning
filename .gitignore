@@ -1,5 +1,6 @@
 # Mengabaikan folder virtual environment
 venv/
+fruitseg_env/
 
 # Mengabaikan folder dataset yang diekstrak
 dataset/
